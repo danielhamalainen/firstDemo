@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uppgift1</string>
+    <string name="Hello_world_test">test</string>
+    <string name="Hello_button1">Hello_button1</string>
+    <string name="Hello_button2">Hello_button2</string>
+    <string name="Hello_button3">Hello_button3</string>
+</resources>
